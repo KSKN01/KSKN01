@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kesari Nandan Kramadhati</h1>
 <h3 align="center">Deploying smiles, Automation Artist : DevOps Engineer</h3>
-<img align="right" alt="DevOps" width="400" src="https://academy.autorabit.com/wp-content/uploads/2021/02/ezgif-7-5fd34c9ec857.gif">
+<img align="right" alt="DevOps" width="350" src="https://academy.autorabit.com/wp-content/uploads/2021/02/ezgif-7-5fd34c9ec857.gif">
 
 
 
