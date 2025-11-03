@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m presently working on **DevOps philosophy**
+- 🔭 I’m a **DevOps Engineer**
 
 - ⏮️ Previously a META certified **Professional Frontend Developer**
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently working with **AWS Services stack**
 
-- 💬 Ask me anything about **Docker, Kubernetes, Terraform, Jenkins**
+- 💬 Ask me anything about **Github Actions, AWS, Terraform**
 
 - 📫 Reach me @ **kesariforwork@gmail.com**
 
