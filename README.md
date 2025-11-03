@@ -8,7 +8,7 @@
 
 - ⏮️ Previously a META certified **Professional Frontend Developer**
 
-- 🌱 I’m currently working with **AWS Services stack**
+- 🌱 I’m currently working with **AWS**
 
 - 💬 Ask me anything about **Github Actions, AWS, Terraform**
 
